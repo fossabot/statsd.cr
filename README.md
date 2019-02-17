@@ -4,6 +4,7 @@ A [statsd](https://github.com/etsy/statsd) client library for [Crystal](http://c
 
 [![Build Status](https://travis-ci.org/miketheman/statsd.cr.svg?branch=master)](https://travis-ci.org/miketheman/statsd.cr)
 [![crystal-docs.org](https://crystal-docs.org/badge.svg)](https://crystal-docs.org/miketheman/statsd.cr)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiketheman%2Fstatsd.cr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiketheman%2Fstatsd.cr?ref=badge_shield)
 
 ## Installation
 
@@ -45,3 +46,7 @@ See `examples/test.cr` for more.
 Inspired by [syslog.cr](https://github.com/comandeo/syslog.cr) and [statsd](https://github.com/reinh/statsd).
 
 - [@miketheman](https://github.com/miketheman) Mike Fiedler - creator, maintainer
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiketheman%2Fstatsd.cr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmiketheman%2Fstatsd.cr?ref=badge_large)
